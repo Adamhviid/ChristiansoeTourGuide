@@ -6,10 +6,15 @@
 
     <ItemGroup>
       <Folder Include="Models" />
+      <Folder Include="static" />
     </ItemGroup>
 
     <ItemGroup>
       <_ContentIncludedByDefault Remove="Views\Shared\_Layout.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Include="wwwroot\images\ducktales.jpg" />
     </ItemGroup>
 
 </Project>

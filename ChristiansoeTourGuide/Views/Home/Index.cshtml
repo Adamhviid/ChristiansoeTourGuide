@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>@ViewData["Title"]Forside - Christiansø Tour Guide</title>
     <link rel="stylesheet" href="css/stylesheet.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     
     <div style="vertical-align:middle; text-align: center;">
         
@@ -24,18 +27,20 @@
                 <text> @Html.ActionLink(" Bestil Tour ","OrderTour")</text>
             </thead>
             <thead>
-            <text> @Html.ActionLink(" Kontakt Os ","ContactUs")</text>
+                <text> @Html.ActionLink(" Kontakt Os ","ContactUs")</text>
             </thead>
         </table>
-        <HR>
+        <HR> 
     </div>
 
 </head>
 <body>
-@*hej*@
 <div class="text-center" style="vertical-align:middle; text-align: center;">
     <img src="https://localhost:5001/Home/DisplayImage" alt="Image" style="width: 700px; height: 600px"/>
-    <button class="btn test">Press me</button>
 </div>
+<div class="testDiv">
+    @Html.ActionLink("Test", "Index",null, htmlAttributes: new { @class = "btn btn-success test"})
+</div>
+    
 </body>
 </html>

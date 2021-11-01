@@ -1,3 +1,4 @@
+using System;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -52,6 +53,12 @@ namespace ChristiansoeTourGuide.Controllers
             var webRoot = _env.WebRootPath;
             var file = System.IO.Path.Combine(webRoot, "/images/map.png");
             return File(file, "image/png");
+        }
+        
+        public IActionResult Test()
+        {
+            Console.WriteLine("Test");
+            return Index();
         }
     }
 }

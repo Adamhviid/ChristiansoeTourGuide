@@ -111,3 +111,41 @@ C:\Niko\SynologyDrive\Labtop\semester4\Rider\ChristiansoeTourGuide - Kopi\Christ
 C:\Niko\SynologyDrive\Labtop\semester4\Rider\ChristiansoeTourGuide - Kopi\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.pdb
 C:\Niko\SynologyDrive\Labtop\semester4\Rider\ChristiansoeTourGuide - Kopi\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.genruntimeconfig.cache
 C:\Niko\SynologyDrive\Labtop\semester4\Rider\ChristiansoeTourGuide - Kopi\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.csproj.CopyComplete
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\bin\Debug\net5.0\appsettings.json
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\bin\Debug\net5.0\ChristiansoeTourGuide.exe
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\bin\Debug\net5.0\ChristiansoeTourGuide.deps.json
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\bin\Debug\net5.0\ChristiansoeTourGuide.runtimeconfig.json
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\bin\Debug\net5.0\ChristiansoeTourGuide.runtimeconfig.dev.json
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\bin\Debug\net5.0\ChristiansoeTourGuide.dll
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\bin\Debug\net5.0\ref\ChristiansoeTourGuide.dll
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\bin\Debug\net5.0\ChristiansoeTourGuide.pdb
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\bin\Debug\net5.0\ChristiansoeTourGuide.Views.dll
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\bin\Debug\net5.0\ChristiansoeTourGuide.Views.pdb
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.csproj.AssemblyReference.cache
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.AssemblyInfoInputs.cache
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.AssemblyInfo.cs
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.csproj.CoreCompileInputs.cache
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.RazorAssemblyInfo.cache
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.RazorAssemblyInfo.cs
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\staticwebassets\ChristiansoeTourGuide.StaticWebAssets.Manifest.cache
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\staticwebassets\ChristiansoeTourGuide.StaticWebAssets.xml
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\scopedcss\bundle\ChristiansoeTourGuide.styles.css
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.TagHelpers.input.cache
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.TagHelpers.output.cache
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.RazorCoreGenerate.cache
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\Razor\Views\Home\Attractions.cshtml.g.cs
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\Razor\Views\Home\ContactUs.cshtml.g.cs
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\Razor\Views\Home\Map.cshtml.g.cs
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\Razor\Views\Home\OrderTour.cshtml.g.cs
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.RazorTargetAssemblyInfo.cache
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.RazorTargetAssemblyInfo.cs
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.Views.pdb
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.dll
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ref\ChristiansoeTourGuide.dll
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.pdb
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.genruntimeconfig.cache
+C:\Users\hviid\OneDrive\KEA\C#\ChristiansoeTourGuide\ChristiansoeTourGuide\obj\Debug\net5.0\ChristiansoeTourGuide.csproj.CopyComplete

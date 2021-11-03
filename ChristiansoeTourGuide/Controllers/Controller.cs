@@ -46,19 +46,13 @@ namespace ChristiansoeTourGuide.Controllers
         {
             return View();
         }
-        
+
         [ResponseCache(NoStore = true, Location = ResponseCacheLocation.None)]
         public IActionResult DisplayImage()
         {
             var webRoot = _env.WebRootPath;
             var file = System.IO.Path.Combine(webRoot, "/images/map.png");
             return File(file, "image/png");
-        }
-        
-        public IActionResult Test()
-        {
-            Console.WriteLine("Test");
-            return Index();
         }
     }
 }

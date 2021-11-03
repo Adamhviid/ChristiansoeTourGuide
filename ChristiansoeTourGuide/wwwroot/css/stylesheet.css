@@ -1,3 +1,18 @@
-.content {
-    position: relative;
+.main {
+    vertical-align:middle;
+    text-align: center;
+}
+
+.table-menu {
+    font-size: 20px;
+}
+
+#image-div {
+    vertical-align:middle;
+    text-align: center;
+}
+
+.image {
+    width: 700px;
+    height: 600px;
 }
